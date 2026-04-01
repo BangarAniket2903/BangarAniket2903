@@ -1,6 +1,6 @@
 # Hi👋, I am Aniket Bangar
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Graduate+AI+and+Data+Science;Data+Enthusiast;Love+Working+with+Numbers;Exploring+Gen+AI+ML+NLP+RAG&center=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=B.Tech+Graduate+AI+and+Data+Science;Data+Enthusiast;Love+Working+with+Numbers;Exploring+Gen+AI+NLP+RAG&center=true&width=500&height=50)
 
 ---
 
